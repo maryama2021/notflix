@@ -86,7 +86,7 @@ Instructios will guide to setup working environment for development and testing 
 
     Page looks like this,
 
-    ![Video streaming page](https://github.com/maryama2021/notflix/blob/master/images/streampg.png?raw=true)
+    ![Video streaming page](images/streampg.png)
 
 ##  License
 
