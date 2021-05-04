@@ -45,7 +45,6 @@ z-index: 1;
   width:20px;
   height:20px;
   transform:rotate(-45deg);
-  //background:#e6f5ff;
   background:inherit;
   border: 1px solid black;
   z-index:-1;
